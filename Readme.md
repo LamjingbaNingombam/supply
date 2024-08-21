@@ -59,7 +59,8 @@ Below is a simplified flowchart illustrating the workflow of the Supply Chain sm
 - **License**: MIT
 - **Contract Address**: 0xd8b934580fcE35a11B58C6D73aDeE468a2833fa8
 
-![alt text](<Screenshot 2024-08-21 115258-1.png>)
+![educhain-deploid](https://github.com/user-attachments/assets/aed6806c-ec28-4f5f-963f-3786aad29464)
+
 
 ## Functions
 
